@@ -1,4 +1,4 @@
-TOKEN = "6961348365:AAHL5OFT0Pc6d-oDJvRfnghN1jqPrC6_g7Y"
+TOKEN = ""
 
 
 db_name = "data.db"
